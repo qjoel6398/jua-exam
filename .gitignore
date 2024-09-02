@@ -1,0 +1,25 @@
+# Python
+pycache/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+gcloud/
+
+# Spark
+metastore_db/
+spark-warehouse/
+
+# Data
+output/
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
